@@ -1,0 +1,16 @@
+{
+  "name": "07-restserver",
+  "version": "1.0.0",
+  "description": "rest server con node con el curso de FH",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nehuen Cuenca",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
